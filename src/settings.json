@@ -1,0 +1,15 @@
+{
+    "prefix": ":",
+
+    "MPP_TOKEN": "0f1115e5db841f84ecd397c8.81758c47-b00b-4fc0-bea5-aef92ba115ab",
+
+    "name": "๖ۣۜ𝓠𝓱𝓮𝓽𝓪 ｢ :help ｣ [Development]",
+    "bot_description": "MyMPP Bot",
+
+    "defaultChannel": "✧𝓓𝓔𝓥 𝓡𝓸𝓸𝓶✧",
+    
+    "bot_admins": ["b8e8694638387d339340b6bc", "8956941e9807fc3991035dcf"],
+
+    "libraryURL": "https://library.khai.dog/",
+    "discordURL": "https://discord.khai.dog/"
+}
